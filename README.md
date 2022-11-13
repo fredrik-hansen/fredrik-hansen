@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working at [Digital Companion LTD](https://www.digitalcompanion.io/)
+- 🔭 I’m currently working at [Digital Companion](https://www.digitalcompanion.io/)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
