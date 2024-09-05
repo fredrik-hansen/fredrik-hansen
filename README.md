@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working at [Digital Companion](https://www.digitalcompanion.io/)
+- 🔭 I’m currently working at [Digital Companion](https://www.linkedin.com/company/digitalcompanion)
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently applying **Artificial Intelligence** automation into **Cybersecurity solutions*
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
