@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Digital Companion](https://www.linkedin.com/company/digitalcompanion)
 
-- 🌱 I’m currently applying **Artificial Intelligence** automation into **Cybersecurity solutions*
+- 🌱 I’m currently applying **Artificial Intelligence** automation to **Cybersecurity solutions**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
@@ -21,7 +21,7 @@
 
 ## My Research
 
-I participated in a few research papers, contact me for more details.
+I participated in a few research papers, contact me for more details or find them via the above LinkedIn profile.
 
 
 I mainly use my own local Gitlab, so Github activity aint as it used to be. But still:
