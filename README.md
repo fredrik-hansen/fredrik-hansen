@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fredrik</h1>
-<h3 align="center">An entrepreneur, security evangelist, researcher, developer and mentor</h3>
+<h3 align="center">**An Entrepreneur, Security evangelist, Researcher, Full-Stack Engineer & AI Integration Specialist and mentor**</h3>
 
 
 
@@ -18,6 +18,29 @@
 - 📄 Know about my experiences [Resume](https://www.linkedin.com/in/cybersecurity-fredrikhansen/)
 
 - ⚡ Fun fact **I like to always try to think two steps ahead**
+
+  
+
+I architect and develop enterprise-grade applications that combine cutting-edge AI with modern web technologies. 
+
+My expertise spans from React frontends to Python backends, with a special focus on RAG (Retrieval-Augmented Generation) systems and multi-database architectures.
+
+## 🚀 Featured Project: **An AI-Powered Knowledge Base Platform**
+
+Frontend:  React 18, TypeScript, Tailwind CSS, D3.js, shadcn/ui
+
+
+Backend:   FastAPI, Python 3.8+, Pydantic, SQLAlchemy
+
+
+AI/ML:     Ollama (LLM), RAG Pipeline, Vector Embeddings, Semantic Search
+
+
+Data:      Neo4j (Graph), OpenSearch (Search/Vectors), SQLite
+
+
+DevOps:    Docker, nginx, JWT Authentication, RBAC
+
 
 ## My Research
 
