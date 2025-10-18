@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fredrik</h1>
-<h3 align="center">**An Entrepreneur, Security evangelist, Researcher, Full-Stack Engineer & AI Integration Specialist and mentor**</h3>
+<h3 align="center">An Entrepreneur, Security evangelist, Researcher, Full-Stack Engineer & AI Integration Specialist and mentor</h3>
 
 
 
