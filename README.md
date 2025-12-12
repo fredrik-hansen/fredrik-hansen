@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/cybersecurity-fredrikhansen/**
 
-- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/cybersecurity-fredrikhansen/)
+- 📄 Know about my experiences [Resume](https://pki.ad)
 
 - ⚡ Fun fact **I like to always try to think two steps ahead**
 
@@ -25,26 +25,12 @@ I architect and develop enterprise-grade applications that combine cutting-edge 
 
 My expertise spans from React frontends to Python backends, with a special focus on RAG (Retrieval-Augmented Generation) systems and multi-database architectures.
 
-## 🚀 Featured Project: **An AI-Powered Knowledge Base Platform**
-
-Frontend:  React 18, TypeScript, Tailwind CSS, D3.js, shadcn/ui
-
-
-Backend:   FastAPI, Python 3.8+, Pydantic, SQLAlchemy
-
-
-AI/ML:     Ollama (LLM), RAG Pipeline, Vector Embeddings, Semantic Search
-
-
-Data:      Neo4j (Graph), OpenSearch (Search/Vectors), SQLite
-
-
-DevOps:    Docker, nginx, JWT Authentication, RBAC
+## 🚀 Featured Projects:  Know about my [projects](https://projects.pki.ad)
 
 
 ## My Research
 
-I participated in a few research papers, contact me for more details or find them via the above LinkedIn profile.
+I've participated in a few research projects, contact me for more details or find them via the above LinkedIn profile.
 
 
 
