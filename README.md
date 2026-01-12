@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredrik</h1>
-<h3 align="center">An Entrepreneur, Security evangelist, Researcher, Full-Stack Engineer & AI Integration Specialist and mentor</h3>
+<h3 align="center">An Entrepreneur, Security evangelist, Full-Stack Engineer & AI Integration Specialist and mentor</h3>
 
 
-
-- 🔭 I’m currently working at [Digital Companion](https://www.linkedin.com/company/digitalcompanion)
 
 - 🌱 I’m currently applying **Artificial Intelligence** automation to **Cybersecurity solutions**
 
