@@ -12,8 +12,7 @@ Compliance as working code, not policy documents.
 ## Expertise
 
 **Agentic AI Security:** multi-agent orchestration, LLM governance,
-prompt security, agent guardrails, Byzantine fault tolerance,
-hash-chained audit trails
+prompt security, agent guardrails
 
 **AI Governance & Compliance:** EU AI Act, ISO 42001, NIST AI RMF,
 GDPR, SOC 2, ISO 27001, PCI DSS — automated, machine-enforceable
@@ -28,15 +27,12 @@ UN AI Policy Network (IGF), Swedish NIST standards (SIS PK 636)
 
 ## Core Stack
 
-**AI/ML:** LangGraph, Ollama, vLLM, QLoRA fine-tuning, RAG, MCP,
-Temporal, Claude Agent SDK
+**AI/ML:** LangGraph, Ollama, vLLM, QLoRA fine-tuning, RAG, MCP
 **Backend:** Python, FastAPI, Rust | **Frontend:** React, TypeScript
 **Data:** PostgreSQL (pgvector), Neo4j, OpenSearch
-**Infra:** Kubernetes, Helm, ArgoCD, FreeBSD, Docker, GitLab CI
+**Infra:** Kubernetes, Helm, ArgoCD, OpenBSD, FreeBSD, Docker, GitLab CI
 
----
 
-[Projects](https://projects.pki.ad) · fh@pki.ad
 
 ---
 
