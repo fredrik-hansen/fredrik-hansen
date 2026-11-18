@@ -1,30 +1,42 @@
 # Fredrik Hansen
 
-**Agentic AI Security Architect** | 27y Cybersecurity + AI/ML Engineering
+**Agentic AI Security Architect | Former CSO**
+27y infosec · production multi-agent AI since 2019 · Andorra / EMEA (hybrid)
 
-Designing autonomous systems where AI agents operate mission-critical infrastructure securely.
+Autonomous systems where AI agents operate mission-critical
+infrastructure — secured, governed, and audit-ready by design.
+Compliance as working code, not policy documents.
 
 ---
 
 ## Expertise
 
-**Security:** Architecture, critical infrastructure (Nordic SCADA), healthcare/PHI, compliance (NIST, ISO 27001, Saudi PDPL), IAM, DevSecOps
+**Agentic AI Security:** multi-agent orchestration, LLM governance,
+prompt security, agent guardrails, Byzantine fault tolerance,
+hash-chained audit trails
 
-**Agentic AI:** Multi-agent orchestration, LLM governance, secure-by-design ML systems, autonomous pipeline security
+**AI Governance & Compliance:** EU AI Act, ISO 42001, NIST AI RMF,
+GDPR, SOC 2, ISO 27001, PCI DSS — automated, machine-enforceable
 
-**Roles:** CSO, Security Architect, CISO-equiv, UN AI Policy advisor, national standards lead (Swedish NIST adaptation)
+**Security Architecture:** zero trust, ISO 27001 ISMS, Nordic SCADA
+critical infrastructure, healthcare/PHI, autonomous pentesting
+
+**Roles:** Former CSO (payment services), security architect,
+UN AI Policy Network (IGF), Swedish NIST standards (SIS PK 636)
 
 ---
 
 ## Core Stack
 
-**Backend:** Python, FastAPI | **Frontend:** React | **ML/Agents:** LangChain, LangGraph, Ollama, Claude
-**Databases:** PostgreSQL, Neo4j, OpenSearch | **Infra:** Kubernetes, Prometheus, Docker
-**Security:** Zero-trust, RBAC, secrets management, audit logging, Byzantine fault tolerance
+**AI/ML:** LangGraph, Ollama, vLLM, QLoRA fine-tuning, RAG, MCP,
+Temporal, Claude Agent SDK
+**Backend:** Python, FastAPI, Rust | **Frontend:** React, TypeScript
+**Data:** PostgreSQL (pgvector), Neo4j, OpenSearch
+**Infra:** Kubernetes, Helm, ArgoCD, FreeBSD, Docker, GitLab CI
 
 ---
 
-[Projects](https://projects.pki.ad)
+[Projects](https://projects.pki.ad) · fh@pki.ad
 
 ---
 
